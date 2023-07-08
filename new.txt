@@ -1,1 +1,0 @@
-Just a example of how new files are being tracked by git 
