@@ -17,3 +17,4 @@ Adding method of Deploying the Software
 ## How to Contribute
 How to contribute to the source code
 Adding new line to the contribution section
+adding on how to contribute
